@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  WangZeyang Demo.cpp
+c:\users\11504\desktop\homework1_2\wangdemo\wangzeyang demo\wangzeyang demo\wangzeyang demo.cpp(50): warning C4326: “main”的返回类型应为“int”而非“void”
+  WangZeyang Demo.vcxproj -> C:\Users\11504\Desktop\homework1_2\WangDemo\WangZeyang Demo\Debug\WangZeyang Demo.exe
