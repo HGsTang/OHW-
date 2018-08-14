@@ -1,3 +1,4 @@
+#include <stdlib.h>
 #include <iostream>
 #include <string.h>
 #pragma warning(disable:4996) 
@@ -171,5 +172,6 @@ int main()
 		{number(0, 1); add(0);}
 		else 
 		{number(0, 0); sub(0);}
-	return 0;
+	system("pause");
+return 0;
 }
