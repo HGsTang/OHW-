@@ -1,0 +1,4 @@
+﻿  ConsoleApplication3.cpp
+e:\summer practice\yuqichen\学生管理\consoleapplication3\consoleapplication3.cpp(245): warning C4018: “<”: 有符号/无符号不匹配
+e:\summer practice\yuqichen\学生管理\consoleapplication3\consoleapplication3.cpp(292): warning C4018: “<”: 有符号/无符号不匹配
+  ConsoleApplication3.vcxproj -> E:\SUMMER PRACTICE\yuqichen\学生管理\Debug\ConsoleApplication3.exe
